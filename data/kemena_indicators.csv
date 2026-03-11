@@ -1,0 +1,33 @@
+category,indicator,value,unit,year,source
+area,area_km2,5307,km2,2020,Department of Statistics Malaysia
+population,total_population,47149,persons,2020,Department of Statistics Malaysia
+population,population_density,9,persons_per_km2,2020,Department of Statistics Malaysia
+housing,housing_units,16100,units,2020,Department of Statistics Malaysia
+housing,households,14100,households,2020,Department of Statistics Malaysia
+housing,avg_household_size,3.2,persons,2020,Department of Statistics Malaysia
+demography,male_percentage,56.7,percent,2020,Department of Statistics Malaysia
+demography,female_percentage,43.3,percent,2020,Department of Statistics Malaysia
+citizenship,citizen_percentage,64.6,percent,2020,Department of Statistics Malaysia
+citizenship,non_citizen_percentage,35.4,percent,2020,Department of Statistics Malaysia
+ethnicity,bumiputera_percentage,95.9,percent,2020,Department of Statistics Malaysia
+ethnicity,chinese_percentage,3.5,percent,2020,Department of Statistics Malaysia
+ethnicity,indian_percentage,0,percent,2020,Department of Statistics Malaysia
+ethnicity,others_percentage,0.6,percent,2020,Department of Statistics Malaysia
+age_structure,age_0_14,18.9,percent,2020,Department of Statistics Malaysia
+age_structure,age_15_64,77.8,percent,2020,Department of Statistics Malaysia
+age_structure,age_65_plus,3.3,percent,2020,Department of Statistics Malaysia
+dependency,young_dependency_ratio,24.3,ratio,2020,Department of Statistics Malaysia
+dependency,old_dependency_ratio,4.3,ratio,2020,Department of Statistics Malaysia
+income,median_household_income,3704,MYR,2019,Department of Statistics Malaysia
+income,mean_household_income,4835,MYR,2019,Department of Statistics Malaysia
+health,government_health_clinic,3,count,2020,Ministry of Health Malaysia
+security,police_station,1,count,2020,Royal Malaysia Police
+education,primary_schools,12,count,2020,Ministry of Education Malaysia
+education,primary_teachers,221,count,2020,Ministry of Education Malaysia
+education,primary_students,2107,count,2020,Ministry of Education Malaysia
+education,secondary_schools,2,count,2020,Ministry of Education Malaysia
+education,secondary_teachers,212,count,2020,Ministry of Education Malaysia
+education,secondary_students,3435,count,2020,Ministry of Education Malaysia
+services,petrol_station,3,count,2022,Malaysia Business Register
+services,retail_shops,67,count,2022,Malaysia Business Register
+services,pharmacy,1,count,2022,Malaysia Business Register
