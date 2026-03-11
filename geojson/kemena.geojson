@@ -1,19 +1,19 @@
 {
-"type":"FeatureCollection",
-"features":[
+"type": "FeatureCollection",
+"features": [
 {
-"type":"Feature",
-"properties":{
-"name":"Kemena"
+"type": "Feature",
+"properties": {
+"name": "DUN Kemena"
 },
-"geometry":{
-"type":"Polygon",
-"coordinates":[[
-[112.70,3.45],
-[113.40,3.45],
-[113.40,2.80],
-[112.70,2.80],
-[112.70,3.45]
+"geometry": {
+"type": "Polygon",
+"coordinates": [[
+[112.75,3.35],
+[113.35,3.35],
+[113.35,2.85],
+[112.75,2.85],
+[112.75,3.35]
 ]]
 }
 }
