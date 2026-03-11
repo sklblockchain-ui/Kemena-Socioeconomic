@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>Kemena Socioeconomic Dashboard 2020</title>
+
+<meta charset="utf-8">
+
+<link rel="stylesheet" href="style.css">
+
+<link rel="stylesheet"
+href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+</head>
+
+<body>
+
+<h1>Kemena Socioeconomic Dashboard 2020</h1>
+
+<section class="background">
+
+<h2>Latar Belakang</h2>
+
+<p>
+DUN Kemena berada di dalam Parlimen Bintulu, Sarawak.
+Keluasan kawasan DUN ini adalah 5,307 kilometer persegi dengan jumlah
+penduduk seramai 47,149 orang pada tahun 2020.
+
+Kepadatan penduduk di kawasan ini ialah 9 orang bagi setiap kilometer persegi.
+
+DUN ini mencatatkan bilangan lelaki melebihi perempuan dengan nisbah
+131 lelaki bagi setiap 100 perempuan.
+</p>
+
+</section>
+
+<div id="map"></div>
+
+<div class="dashboard">
+
+<h2>Kemena Statistics</h2>
+
+<div class="cards">
+
+<div class="card">
+<h3>Population</h3>
+<p id="population"></p>
+</div>
+
+<div class="card">
+<h3>Area</h3>
+<p id="area"></p>
+</div>
+
+<div class="card">
+<h3>Density</h3>
+<p id="density"></p>
+</div>
+
+<div class="card">
+<h3>Median Income</h3>
+<p id="income"></p>
+</div>
+
+</div>
+
+<canvas id="genderChart"></canvas>
+
+<canvas id="ageChart"></canvas>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
